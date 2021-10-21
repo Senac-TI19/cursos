@@ -3,3 +3,23 @@ h1{
     text-align: center;
     font-size: 20px;
 }
+.curso{
+    margin-bottom: 5px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+}
+img{
+    max-width: 100px;
+}
+.liscurso{
+    padding: 1px;
+}
+h2{
+    font-size: 15px;
+   text-align: center;
+    margin: 5px;
+    
+    
+}
