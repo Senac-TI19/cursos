@@ -13,12 +13,12 @@ h1{
 img{
     max-width: 100px;
 }
-.liscurso{
+.listcurso{
     padding: 1px;
 }
 h2{
-    font-size: 15px;
-   text-align: center;
+    font-size: 10px;
+   text-align:justify;
     margin: 5px;
     
     
