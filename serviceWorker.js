@@ -1,6 +1,7 @@
 const cacheName= 'cursos-v1'
 
 const recursosCacheados=[
+    "./",
     "./index.html",
     "./styles.css",
     "./favicon.ico",
@@ -24,7 +25,7 @@ const recursosCacheados=[
     "./icons/android-icon-192x192.png", 
     "./icons/favicon-32x32.png", 
     "./icons/favicon-96x96.png", 
-    "././icons/favicon-16x16.png", 
+    "./icons/favicon-16x16.png", 
     "./icons/favicon-512x512.png", 
 
 ];
