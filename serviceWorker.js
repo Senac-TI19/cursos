@@ -51,8 +51,7 @@ self.addEventListener("fetch", function (event) {
           console.log(`Recurso encontrado no cache: ${event.request.url}`);
           return response;
         } else {
-          console.log(
-            `Recurso não encontrado no cache. Fazendo request para ${event.request.url}`
+          console.log(`Recurso não encontrado no cache. Fazendo request para ${event.request.url}`
           );
           return fetch(event.request);
         }
